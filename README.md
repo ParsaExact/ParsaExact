@@ -1,4 +1,4 @@
-```markdown
+
 # Hi there, I'm Parsa Daghigh 👋
 
 ## About Me
@@ -26,4 +26,4 @@ I am a **Bachelor's student** in **Computer Engineering** with a keen interest i
 
 ## 💬 Let's Connect!
 Feel free to reach out if you want to discuss AI, ML, or anything tech-related!
-```
+
