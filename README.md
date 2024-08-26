@@ -17,9 +17,6 @@ I am a **Bachelor's student** in **Computer Engineering** with a keen interest i
 - **LinkedIn**: [www.linkedin.com/in/parsadaghigh](https://www.linkedin.com/in/parsadaghigh)
 - **GitHub**: [github.com/ParsaExact](https://github.com/ParsaExact)
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## 🧠 Interests
 - **AI Ethics**: Ensuring responsible use of AI technologies.
 - **Open Source**: Contributing to open-source AI/ML projects.
