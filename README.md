@@ -2,7 +2,7 @@
 # Hi there, I'm Parsa Daghigh 👋
 
 ## About Me
-I am a **Bachelor's student** in **Computer Engineering** with a keen interest in **Artificial Intelligence (AI)** and **Machine Learning (ML)**. My primary focus is on **Large Language Models (LLMs)** and **Transformer Networks**.
+I am a **Bachelor's student** in **Computer Engineering** with a keen interest in **Artificial Intelligence (AI)** and **Machine Learning (ML)**. My primary focus is on **Computational Neuroscience** and **Transformer Networks**.
 
 ## 🔭 Current Projects
 - **Neural Network Models**: Developing models to simulate brain functions.
@@ -22,5 +22,5 @@ I am a **Bachelor's student** in **Computer Engineering** with a keen interest i
 - **Open Source**: Contributing to open-source AI/ML projects.
 
 ## 💬 Let's Connect!
-Feel free to reach out if you want to discuss AI, ML, or anything tech-related!
+Feel free to reach out if you want to discuss anything tech-related!
 
